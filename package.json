@@ -1,0 +1,22 @@
+{
+  "name": "first-package",
+  "version": "1.0.0",
+  "description": "jeriezo first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeriezo/first-npm-package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "jeriezo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeriezo/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/jeriezo/first-npm-package#readme"
+}
